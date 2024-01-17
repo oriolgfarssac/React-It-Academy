@@ -53,7 +53,7 @@ Welcome to the React course at IT Academy! <br> This GitHub repository contains 
   - Learn the basics of TypeScript
   - API data usage
 
-- **🛠 Live Examples:**
+- **🛠 Live Sprint 5:**
   - <a src="https://sprint5-gl2k.onrender.com/">https://sprint5-gl2k.onrender.com/</a>
 
 ### Sprint 6: React Introduction  
@@ -63,37 +63,29 @@ Welcome to the React course at IT Academy! <br> This GitHub repository contains 
   - First watch
   - Testing best practices
 
-- **🔍 Live Examples:**
-  - Implementing test cases for React components
+- **🔍 Live Sprint 6:**
+  - <a src="https://react-it-academy.vercel.app/">https://react-it-academy.vercel.app/</a>
 
-### Sprint 7: State Management with Redux
+### Sprint 7: React Budged WebApp using localStoratge
 
 - **🔄 Topics Covered:**
-  - Introduction to Redux
-  - Actions, reducers, and the store
-  - Integrating Redux with React
+  - Use of Components
+  - Usatge of Use Effect, Use State...
+  - Learn styled components
 
-- **🏛 Live Examples:**
-  - Building a Redux-powered React application
+- **🏛 Live Sprint 7:**
+  - <a src="https://react-it-academy-26wc.vercel.app/">https://react-it-academy-26wc.vercel.app/</a>
 
-### Sprint 8: Building a Complete React App
+### Sprint 8: Star Wars Ships Info React App
 
 - **🚀 Topics Covered:**
-  - Project structuring and organization
-  - Integrating backend services
-  - Deployment strategies for React applications
+  - Context API in React
+  - Setting up React Router for navigation
+  - Navigating between different views
 
-- **🌐 Live Examples:**
-  - Developing a full-fledged React application
-
-## 🚀 Getting Started
-
-To embark on this exciting learning journey, clone this repository and follow the instructions in each sprint's directory.
-
-## 🧠 Prerequisites
-
-- Basic knowledge of HTML, CSS, and JavaScript is recommended.
-- Ensure Node.js and npm are installed on your machine.
+- **🌐 Live Sprint 8:**
+  - <a src="https://react-it-academy-jgkq.vercel.app/">https://react-it-academy-jgkq.vercel.app/</a>
+  
 
 ## 🤝 How to Contribute
 
@@ -101,6 +93,6 @@ We welcome contributions! If you find issues or have suggestions, please open an
 
 ## 📬 Feedback
 
-We value your feedback. For any questions or suggestions regarding the course content, feel free to ✉️ [contact us](mailto:info@itacademy.com).
+I value your feedback. For any questions or suggestions regarding the course content, feel free to ✉️ [contact me](oriolgfarssac.com).
 
 Happy coding! 🚀
