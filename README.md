@@ -93,6 +93,6 @@ We welcome contributions! If you find issues or have suggestions, please open an
 
 ## 📬 Feedback
 
-I value your feedback. For any questions or suggestions regarding the course content, feel free to ✉️ [contact me](oriolgfarssac.com).
+I value your feedback. For any questions or suggestions regarding the course content, feel free to contact me ✉️ (oriolgfarssac.com).
 
 Happy coding! 🚀
