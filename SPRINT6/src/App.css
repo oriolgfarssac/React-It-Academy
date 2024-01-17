@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#divStyle{
+    margin-top: 25px;
+    width: 750px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    border: solid 3px black;
+}
+
+#buttonStyle{
+    font-size: 20px;
+    margin-left: 30px;
+    background-color: white;
+    border: solid 2px black;
+    border-radius: 30px;    
+}
+
+#buttonStyle:hover{
+    font-size: 20px;
+    margin-left: 30px;
+    background-color: rgba(219, 86, 86, 0.663);
+    border: solid 2px black;
+    border-radius: 30px;
+}
+
+#buttonStyle:active{
+    font-size: 20px;
+    margin-left: 30px;
+    background-color: rgba(219, 86, 86, 0.785);
+    border: solid 2px black;
+    border-radius: 30px;
+}
+
+#divGeneral{
+    margin-top: 15%;
+}

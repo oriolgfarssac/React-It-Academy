@@ -1,0 +1,118 @@
+body{
+    background-color: rgb(230, 243, 255);
+}
+
+#mainDiv{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    align-items: center;
+    width: 55em;
+    min-height: fit-content;
+    height: fit-content;
+    border-radius: 1em;
+    border: solid 0px rgb(205, 232, 255);
+}
+
+#titolAcudits{
+    color: #221E22;
+    margin-bottom: 10px;
+    height: auto;
+    font-size: 2em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#mostrarAcudits{
+    text-align: center;
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: auto;
+    border: solid 15px rgba(230, 243, 255, 0);
+    max-width: 600px;
+    background-color: rgba(230, 243, 255, 0);
+    border-radius: 0.5em;
+}
+
+#buttonsDiv{
+    height: auto;
+    margin-bottom: 20px;
+}
+
+#buttonStyle{
+    margin-inline: 15px;
+    font-size: 30px;
+    background-color: rgba(250, 235, 215, 0);
+    border: 0px rgba(0, 0, 0, 0);
+}
+
+#buttonStyle:hover{
+    margin-inline: 15px;
+    font-size: 45px;
+    background-color: rgba(250, 235, 215, 0);
+    border: 0px rgba(0, 0, 0, 0);
+}
+
+#buttonStyle:active{
+    margin-inline: 15px;
+    font-size: 50px;
+    background-color: rgba(250, 235, 215, 0);
+    border: 0px rgba(0, 0, 0, 0);
+}
+
+
+#cridarAcudits{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    border-radius: 0.25em;
+    background-color: rgba(230, 243, 255, 0);
+    border: solid 5px rgb(230, 243, 255);
+}
+
+#cridarAcudits:hover{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    border-radius: 0.25em;
+    background-color: rgb(198, 227, 255);
+    border: solid 5px rgb(198, 227, 255);
+}
+
+#cridarAcudits:active{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    border-radius: 0.25em;
+    background-color: rgb(178, 218, 255);
+    border: solid 5px rgb(178, 218, 255);
+}
+
+#divWeather{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    width: 120px;
+    margin-left: 45%;
+    margin-top: 100px;
+    border-radius: 1em;
+    background-color: white;
+    border: solid 0px rgb(205, 232, 255);
+}
+
+#icon{
+    width: 35px;
+    height: 35px;
+}
+
+

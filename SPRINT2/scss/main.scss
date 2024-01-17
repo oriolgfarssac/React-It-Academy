@@ -1,0 +1,99 @@
+
+@import '../node_modules/bootstrap/scss/_functions';
+@import '../node_modules/bootstrap/scss/_variables';
+
+$primary: rgb(0, 0, 255); 
+
+$secondary: orange;
+
+$theme-colors: map-merge($theme-colors, (
+  "primary": $primary
+  "secondary": $secondary
+));
+
+#navlink2{
+    color: rgb(110, 110, 110);
+}
+
+#navlink2:hover{
+    color: $secondary;
+    }
+
+#navlink2:active{
+    color: $secondary;
+    border: solid 2px $secondary;
+}
+
+#navlink{
+    color: rgba(78, 78, 78, 0.884);
+}
+
+#navlink:active{
+    border-bottom: solid 4px $secondary;
+}
+
+#navlink:hover{
+   color: $secondary;
+}
+
+#boto{
+    background-color: $primary;
+    color: white;
+    border: solid 3px rgba(40, 40, 216, 0);
+}
+
+#boto:active{
+background-color: rgb(40, 40, 216);
+}
+
+#boto:hover{
+    background-color: rgba(118, 118, 185, 0);
+    border: solid 3px rgb(40, 40, 216);
+    color:black;
+}
+
+#boto1{
+    color: rgb(107, 107, 107);
+    background-color: rgb(227, 226, 226);
+    border: 0px;
+}
+
+#boto1:active{
+background-color: rgb(40, 40, 216);
+}
+
+#boto1:hover{
+    background-color: rgba(118, 118, 185, 0);
+    border: solid 3px rgb(107, 107, 107);
+}
+
+#boto2{
+    color: rgb(255, 255, 255);
+    background-color: $secondary;
+    border: solid 0px $secondary;
+}
+
+#boto2:hover{
+    background-color: rgb(255, 255, 255);
+    color: $secondary;
+    border: solid 3px $secondary;
+}
+
+#hov:hover{
+    color: $secondary;
+}
+
+#navlink3{
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    border: solid 0px;
+}
+
+#navlink3:hover{
+    color: $secondary;
+    }
+
+@import '../node_modules/bootstrap/scss/bootstrap'
+
+
+

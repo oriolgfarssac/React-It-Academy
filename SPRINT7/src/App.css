@@ -1,0 +1,309 @@
+#root {
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+}
+
+#bto{
+  width: 20px;
+  height: 20px;
+  border-radius: 5px;
+  height: fit-content;
+  margin-inline: 20px;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  background-color: rgba(109, 109, 109, 0.67);
+}
+
+#bto:active{
+  height: fit-content;
+  margin-inline: 20px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(109, 109, 109, 0.67);
+}
+
+#bto2{
+  width: 20px;
+  height: 20px;
+  border-radius: 5px;
+  margin-inline: 20px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: none;
+  background-color: rgba(109, 109, 109, 0.67);
+}
+
+#bto2:active{
+  height: fit-content;
+  margin-inline: 20px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(109, 109, 109, 0.67);
+}
+
+.idmContent{
+  border: none;
+  text-decoration: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.total{
+  display: flex;
+  flex-direction: column;
+}
+
+.totalReal{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
+  margin-inline: 35px;
+  display: flex;
+  justify-content: top;
+  align-items:center;
+  height: 450px;
+  width: 400px;
+  border-radius: 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(71, 45, 164, 0.674);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.208);
+}
+
+#main2{
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
+  margin-inline: 35px;
+  display: flex;
+  justify-content: top;
+  align-items:center;
+  height: 450px;
+  width: 400px;
+  border-radius: 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(71, 45, 164, 0.674);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.208);
+  }
+
+  #main3{
+    display: flex;
+    flex-direction: column;
+    margin-inline: 35px;
+    display: flex;
+    justify-content: top;
+    align-items: center;
+    height: 450px;
+    width: 400px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(71, 45, 164, 0.674);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.208);
+    }
+  
+
+    .divWelcome {
+      display: flex;
+      flex-direction: column;
+      margin-top: auto;
+      margin-inline: 35px;
+      display: flex;
+      justify-content: top;
+      align-items:center;
+      height: 250px;
+      width: 100%;
+      border-radius: 20px;
+      color: rgb(255, 255, 255);
+      background-color: rgba(71, 45, 164, 0.674);
+      box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.208);
+    }
+    
+.link{
+  width: 150px;
+  height: 30px;
+  background-color: rgb(0, 0, 0);
+  text-decoration: none;
+  list-style: none;
+  text-decoration: none;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-weight: bolder;
+  border-radius: 10px;
+}
+
+.link:hover{
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(61, 61, 61);
+    font-weight: bolder;
+  }
+
+.link1{
+  text-decoration: none;
+  list-style: none;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+}
+
+.link1:hover{
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(192, 192, 192);
+    font-weight: bolder;
+  }
+
+#mymodal{
+  background-color: rgb(92, 92, 92);
+  border: none;
+  border-radius: 20px;
+
+}
+
+#mymodal::backdrop{
+  background-color: rgba(0, 0, 0, 0.462);
+}
+
+#info{
+  color: #ffffff;
+}
+
+#menu{
+margin-left: auto;
+margin-right: auto;
+  width: 150px;
+  height: auto;
+  background-color: rgb(92, 92, 92);
+  border-radius: 20px;
+  border: solid 5px rgb(52, 52, 52);
+}
+
+.inputForm{display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+}
+
+.inpuut{
+  outline-style: none;
+  border-style: none;
+  text-decoration: none;
+  height: 25px;
+  background-color: rgba(255, 255, 255, 0.73);
+  border: solid 2.5px rgba(27, 27, 27, 0);
+  color: rgba(109, 109, 109, 0.67);
+  font-weight: bolder;
+  border-radius: 5px;
+  width: 200px;
+  font-weight: bold;
+  text-align: center;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.208);
+}
+
+.searchButton{
+  font-size: 18px;
+  width: 20px;
+  height: 20px;
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+}
+
+.para{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.boto1{
+  color: white;
+  text-decoration: none;
+  list-style: none;
+  text-decoration: none;
+  background-color: rgba(109, 109, 109, 0.67);
+  width: 200px;
+  height: 25px;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.208);
+  font-weight: bolder;
+}
+
+.boto1:hover{
+  background-color: rgba(109, 109, 109, 0.67);
+  height: 25px;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 1.5px 1.5px 1.5px rgba(0, 0, 0, 0.208);
+}
+
+.boto1:active{
+  background-color: rgba(109, 109, 109, 0.67);
+  height: 25px;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.208);
+}
+
+.introduction1{
+  width: 350px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#accordion{
+  width: 200px;
+}
+
+.scrollDiv {
+  overflow-y:scroll;
+  color: rgb(255, 254, 254);
+  height: 300px;
+  width: 375px;
+  background-color: rgba(71, 45, 164, 0);
+  display: flex;
+  flex-direction: column-reverse; 
+}
+
+.scrollDiv::-webkit-scrollbar-track {
+  width: 3px;
+}
+
+.divBudget{
+  margin-top: 20px;
+  border-radius: 20px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 350px;
+  height: 450px;
+  background-color: rgba(71, 45, 164, 0.674);
+}
