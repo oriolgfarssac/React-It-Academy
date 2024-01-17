@@ -14,7 +14,7 @@ Welcome to the React course at IT Academy! <br> This GitHub repository contains 
   - Learning all the basics of HTML & CSS
 
 - **🛠 Live Sprint 1:**
-  - <a src="https://react-it-academy.vercel.app/">https://react-it-academy.vercel.app//</a>
+  - <a src="https://sprint1.onrender.com/">https://sprint1.onrender.com/</a>
 
 ### Sprint 2: Responsive Design with HTML & Bootstrap 5
 
@@ -24,7 +24,7 @@ Welcome to the React course at IT Academy! <br> This GitHub repository contains 
   - Using default designs of Bootstrap 5 like buttons...
 
 - **🛠 Live Sprint 2:**
-  - <a src="https://react-it-academy-lac.vercel.app/">https://react-it-academy-lac.vercel.app/</a>
+  - <a src="https://sprint2-x4aw.onrender.com/">https://sprint2-x4aw.onrender.com/</a>
 
 ### Sprint 3: JavaScript Feature Development for E-commerce
 
@@ -34,7 +34,7 @@ Welcome to the React course at IT Academy! <br> This GitHub repository contains 
   - Mastering core JavaScript fundamentals
 
 - **🛠 Live Sprint 3:**
-  - <a src="https://sprint3-beta.vercel.app/">https://sprint3-beta.vercel.app/</a>
+  - <a src="https://sprint3-9flj.onrender.com/">https://sprint3-9flj.onrender.com/</a>
 
 ### Sprint 4: JavaScript Debugging 
 
@@ -56,11 +56,11 @@ Welcome to the React course at IT Academy! <br> This GitHub repository contains 
 - **🛠 Live Examples:**
   - <a src="https://sprint5-gl2k.onrender.com/">https://sprint5-gl2k.onrender.com/</a>
 
-### Sprint 6: React Testing
+### Sprint 6: React Introduction  
 
 - **🧪 Topics Covered:**
-  - Writing unit tests for React components
-  - Integration testing in React applications
+  - Basic website made from React
+  - First watch
   - Testing best practices
 
 - **🔍 Live Examples:**
